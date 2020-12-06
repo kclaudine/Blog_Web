@@ -25,7 +25,8 @@ A writer can delete comments that are insulting to their blog
 
 A writer can update the blog they posted
 
-# BDD
+## BDD
+
 Behaviour	         |    Input	                     |           Output
 
 ---------------------+-------------------------------+-------------------------------
