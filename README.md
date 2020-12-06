@@ -11,7 +11,8 @@ Claudine Kuradusenge
 This is an app to create a personal blogging website where you can create and share your opinions and other users can read and comment on them. Additionally, add a feature that displays random quotes to inspire your users. 
 
 
-# User Stories
+## User Stories
+
 A users can see blogs that other people have posted
 
 A user can comment on different blogs and leave feedback
