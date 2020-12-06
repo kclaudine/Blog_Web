@@ -46,7 +46,8 @@ See your profile     |Click profile                  |See your bio and profile p
 
 Go to main page      |Click home                     |Go back to homepage
 
-# Prerequisites
+## Prerequisites
+
 Python3.6
 
 ## Installation steps
