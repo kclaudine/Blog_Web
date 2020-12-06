@@ -49,10 +49,11 @@ Go to main page      |Click home                     |Go back to homepage
 # Prerequisites
 Python3.6
 
-# Installation steps
-$ git clone https://github.com/tw8130/BLOG-WEB.git
+## Installation steps
 
-$ cd Blog
+$ git clone https://github.com/kclaudine/Blog_Web.git/
+
+$ cd Blog_web
 
 $ source virtual/bin/activate
 
