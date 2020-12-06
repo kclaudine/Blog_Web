@@ -68,7 +68,8 @@ A user needs to sign up
 
 A user the needs to sign in order to see posts,create posts,comment posts and delete posts
 
-# Technologies Used
+## Technologies Used
+
 This project uses major technologies which are :
 
 HTML5/CSS
