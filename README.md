@@ -46,7 +46,7 @@ See your profile     |Click profile                  |See your bio and profile p
 
 Go to main page      |Click home                     |Go back to homepage
 
-## Prerequisites
+# Prerequisites
 
 Python3.6
 
@@ -62,7 +62,8 @@ Inside the manage.py module change the config_name parameter from 'production' t
 
 $ ./start.sh
 
-# How it works
+## How it works
+
 A user needs to sign up
 
 A user the needs to sign in order to see posts,create posts,comment posts and delete posts
