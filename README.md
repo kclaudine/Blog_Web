@@ -85,7 +85,8 @@ flask
 No known bugs 
 
 ## CONTACT INFO:
-You can email at:mwangitabitha2020@gmail.com
+
+You can email at:ckuradusenge42@gnail.com
 
 ## LICENSE:
 MIT License
